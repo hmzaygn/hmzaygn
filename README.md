@@ -32,21 +32,13 @@
 <div>
 <h3 align="center"> 📧 Contact Me 📧</h3>
 <p align="center">
-<a href="mailto:yildirimesutcw@gmail.com" target="_blank" display="inline" >
-<img src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" width="100px" height="25px" />
+<a href="mailto:hamzaaygan1995@gmail.com" target="_blank" display="inline" >
+<img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" alt="gmail" width="75px" height="75px" />
 </a>
 
-<a href="https://www.linkedin.com/in/yildirimesut/" target="_blank" display="inline" >
 
-<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" width="100px" height="25px"/>
-</a> 
-
-<a href="https://medium.com/@yildirimesutcw" target="_blank" display="inline" >
-<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Medium.svg" alt="Medium" width="100px" height="25px"/>
-</a> 
-
-<a href="https://stackoverflow.com/users/19485935/mesut-y%c4%b1ld%c4%b1r%c4%b1m" target="_blank" display="inline" >
-<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/stack.svg" alt="stack" width="100px" height="25px"/>
+<a href="https://www.linkedin.com/in/hamza-ayğan/" target="_blank" display="inline" >
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" alt="LinkedIn" width="75px" height="75px"/>
 </a> 
 
 </p>
